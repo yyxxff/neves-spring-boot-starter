@@ -1,4 +1,4 @@
-package com.bww.neves.exception;
+package com.bwv.neves.exception;
 
 import cn.hutool.core.util.StrUtil;
 

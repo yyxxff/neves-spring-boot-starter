@@ -1,4 +1,4 @@
-package com.bww.neves;
+package com.bwv.neves;
 
 //import org.junit.jupiter.api.Test;
 //import org.springframework.boot.test.context.SpringBootTest;

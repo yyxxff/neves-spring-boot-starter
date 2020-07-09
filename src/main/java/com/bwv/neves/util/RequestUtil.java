@@ -1,4 +1,4 @@
-package com.bww.neves.util;
+package com.bwv.neves.util;
 
 public class RequestUtil {
 
