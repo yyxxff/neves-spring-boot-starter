@@ -12,7 +12,7 @@
 
     <groupId>io.github.bluewindvane</groupId>
     <artifactId>neves-spring-boot-starter</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <name>neves-spring-boot-starter</name>
     <description>Demo project for Spring Boot</description>
     <packaging>jar</packaging>
@@ -30,7 +30,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
-            <scope>compile</scope>
         </dependency>
 
         <dependency>
@@ -42,7 +41,6 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <optional>true</optional>
         </dependency>
 
         <dependency>
