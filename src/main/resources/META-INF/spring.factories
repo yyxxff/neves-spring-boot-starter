@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.bwv.neves.configuration.NevesConfiguration.java
+com.bwv.neves.configuration.NevesConfiguration

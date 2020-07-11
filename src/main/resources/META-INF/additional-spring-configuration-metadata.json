@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "neves.username",
+      "type": "java.lang.String",
+      "defaultValue": "master",
+      "description": "username."
+    },
+    {
+      "name": "neves.password",
+      "type": "java.lang.String",
+      "defaultValue": "123456",
+      "description": "password."
+    }
+  ]
+}
