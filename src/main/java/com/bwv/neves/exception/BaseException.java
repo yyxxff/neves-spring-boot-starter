@@ -2,10 +2,16 @@ package com.bwv.neves.exception;
 
 import cn.hutool.core.util.StrUtil;
 
+/**
+ * 测试
+ */
 public class BaseException extends RuntimeException {
 
     private static final long serialVersionUID = 6057602589533840889L;
 
+    /**
+     *  状态
+     */
     private int status;
 
     public BaseException() {
