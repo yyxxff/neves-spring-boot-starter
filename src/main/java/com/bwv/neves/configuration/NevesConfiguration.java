@@ -19,8 +19,8 @@ public class NevesConfiguration {
 
     @Bean
     @ConditionalOnMissingBean(RequestUtil.class)
-    public RequestUtil animalService() {
-        return new RequestUtil(nevesProperties);
+    public RequestUtil requestUtil() {
+        return new RequestUtil();
     }
 
 }

@@ -11,6 +11,12 @@
       "type": "java.lang.String",
       "defaultValue": "123456",
       "description": "password."
+    },
+    {
+      "name": "neves.crypto.aesKey",
+      "type": "java.lang.String",
+      "defaultValue": "default",
+      "description": "aesKey."
     }
   ]
 }
