@@ -23,7 +23,7 @@
         <lang3.version>3.10</lang3.version>
         <io.version>2.7</io.version>
         <fastjson.version>1.2.72</fastjson.version>
-        <hutool.version>5.3.8</hutool.version>
+        <hutool.version>5.8.21</hutool.version>
     </properties>
 
     <dependencies>
